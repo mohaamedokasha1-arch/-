@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Keep everything indexable — single-page app, JS-rendered content
+Sitemap: https://sakinah-tilawah.vercel.app/sitemap.xml
